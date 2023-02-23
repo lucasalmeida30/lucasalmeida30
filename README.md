@@ -1,6 +1,7 @@
 ### Olá! Eu sou o Lucas Almeida 😎
 
 - 🌱 Atualmente estou estudando desenvolvimento web na trybe
+- 💻 Sou apaixonado por tecnologia
 - 😄 Pronouns: ele/dele
 
 <div align="center">
